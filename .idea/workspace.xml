@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cf65866-fc09-4c4e-a06b-883da94d2685" name="Default" comment="Added a service worker">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-    </list>
+    <list default="true" id="1cf65866-fc09-4c4e-a06b-883da94d2685" name="Default" comment="Added a service worker" />
     <list id="a7b35adc-4ac0-455d-95da-8e92265f8976" name="Rejected commit: Default" comment="Added a service worker">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -328,12 +326,12 @@
       <workItem from="1534083338023" duration="5301000" />
       <workItem from="1534701276989" duration="3411000" />
       <workItem from="1536689777285" duration="179000" />
-      <workItem from="1536690430492" duration="2297000" />
+      <workItem from="1536690430492" duration="2895000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53810000" />
+    <option name="totallyTimeSpent" value="54408000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
