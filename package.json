@@ -9,10 +9,10 @@
   },
   "devDependencies": {},
   "scripts": {
-    "deploy":"gh-pages -d ",
+    "deploy":"gh-pages -d dist",
     "sass": "node-sass -w scss -w scss/ -o dist/css/ --recursive"
   },
   "author": "Julia Panteley",
-  "homepage":"https://juliapanteley.github.io/portfolio",
+  "homepage":"https://julia23568.github.io/portfolio",
   "license": "ISC"
 }
