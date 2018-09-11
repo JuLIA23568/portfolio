@@ -40,7 +40,7 @@ let showMenu = false;
 
 
 
-//make sure that ws are supported
+//make sure that WS are supported
 
 if('serviceWorker' in navigator){
      window.addEventListener('load',()=>{
