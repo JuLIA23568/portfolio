@@ -13,6 +13,6 @@
     "sass": "node-sass -w scss -w scss/ -o dist/css/ --recursive"
   },
   "author": "Julia Panteley",
-  "homepage":"https://julia23568.github.io/portfolio",
+  "homepage":"https://JuLIA23568.github.io/portfolio",
   "license": "ISC"
 }
